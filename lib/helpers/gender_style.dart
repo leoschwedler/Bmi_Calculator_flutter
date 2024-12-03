@@ -1,0 +1,1 @@
+enum GenderStyle { male, female }
